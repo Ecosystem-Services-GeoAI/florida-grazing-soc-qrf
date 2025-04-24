@@ -52,5 +52,5 @@ var exportMonthlyImages = function(collection, region, folder, prefix) {
   }
 };
 
-// Export each monthly precipitation image
+// Export each annualy image
 exportMonthlyImages(dataset, FL, 'SOC_FL_Rangelands/Jiayi_Song/20240625','NPP');

@@ -1,3 +1,7 @@
+//SPL3SMP_E.005 SMAP L3 Radiometer Global Daily 9 km Soil Moisture
+//https://developers.google.com/earth-engine/datasets/catalog/NASA_SMAP_SPL3SMP_E_005#description\
+//Average on 16 to 23
+
 var dataset16 = ee.ImageCollection('NASA/SMAP/SPL3SMP_E/005')
                   .filter(ee.Filter.date('2016-12-01', '2016-12-30'));
 
