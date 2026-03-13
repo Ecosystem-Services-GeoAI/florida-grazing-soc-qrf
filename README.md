@@ -53,4 +53,3 @@ git clone https://github.com/Ecosystem-Services-GeoAI/FL-Grazinglands-SOC.git
 cd FL-Grazinglands-SOC
 
 conda env create -f environment.yml
-conda activate QRFSOC
