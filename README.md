@@ -39,11 +39,9 @@ All scripts used in data preprocessing, modeling, uncertainty estimation, and vi
 
 All workflows are organized as **Jupyter notebooks**, covering the full pipeline including:
 
-- data preprocessing  
-- environmental feature generation  
-- SOC prediction modeling  
-- uncertainty quantification  
-- explainable machine learning analysis (SHAP)  
+- covarible download 
+- feaure enginerring
+- modeling 
 - spatial mapping
 
 ---
@@ -51,10 +49,8 @@ All workflows are organized as **Jupyter notebooks**, covering the full pipeline
 ## How to Begin
 
 ```bash
-git clone https://github.com/yourusername/SOC_grazinglands.git
-cd SOC_grazinglands
+git clone https://github.com/Ecosystem-Services-GeoAI/FL-Grazinglands-SOC.git
+cd FL-Grazinglands-SOC
 
 conda env create -f environment.yml
 conda activate QRFSOC
-
-jupyter notebook
