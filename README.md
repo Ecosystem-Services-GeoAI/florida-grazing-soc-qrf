@@ -32,6 +32,8 @@ All scripts used in data preprocessing, modeling, uncertainty estimation, and vi
 
 [![Interactive Web Application](https://img.shields.io/badge/Interactive%20Web%20Application-Visit%20Here-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://es-geoai.rc.ufl.edu/agroes-grazing-soc/)
 
+[![Zenodo](https://img.shields.io/badge/Data%20on-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/your-doi-link)
+
 ## Highlights
 
 - A parsimonious, uncertainty-aware digital soil mapping framework was developed to estimate topsoil SOC stocks in subtropical grazing lands.
