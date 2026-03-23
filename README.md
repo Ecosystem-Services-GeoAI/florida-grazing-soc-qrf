@@ -26,8 +26,11 @@ All scripts used in data preprocessing, modeling, uncertainty estimation, and vi
 
 ![Study Area](Fig_6.jpg)
 
+### Interactive Web Application
 
----
+![Interactive Web Application](Fig_webapp.jpg)
+
+[![Interactive Web Application](https://img.shields.io/badge/Interactive%20Web%20Application-Visit%20Here-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://es-geoai.rc.ufl.edu/agroes-grazing-soc/)
 
 ## Highlights
 
