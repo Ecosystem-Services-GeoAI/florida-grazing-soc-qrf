@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains the complete code used in the study:
+This repository contains the code used in the study currently under peer review:
 
-**“Spatiotemporal controls on soil organic carbon stocks in subtropical grazing lands: An uncertainty-aware digital soil mapping approach.”**
+**“Zhao, C., Song, J., Dubeux, J., Grunwald, S., Bretas, I. L., Liao, H.-Y., Tziolas, N., Harley, J. B., Zare, A., Babaeian, E., Garcia, L., Queiroz, L., & Mendes, C. T. E. (2026). Spatiotemporal controls on soil organic carbon stocks in subtropical grazing lands: An uncertainty-aware digital soil mapping approach. Available at SSRN: https://ssrn.com/abstract=6459841 or http://dx.doi.org/10.2139/ssrn.6459841”**
 
 Accurate spatial assessment of soil organic carbon (SOC) stocks and their associated uncertainty is essential for understanding terrestrial carbon storage and supporting climate-smart land management. Despite the large spatial extent of grazing systems, SOC storage in these landscapes remains insufficiently characterized, particularly in subtropical regions where environmental controls and management dynamics are highly heterogeneous.
 
@@ -36,7 +36,7 @@ All scripts used in data preprocessing, modeling, uncertainty estimation, and vi
 
 If you use the SOC dataset provided in Zenodo, please cite:
 
-Zhao, C., Song, J., Dubeux, J., Grunwald, S., Bretas, I., Liao, H.-Y., Tziolas, N., Harley, J., Zare, A., Babaeian, E., Garcia, L., Queiroz, L., & Mendes, C. (2026). *Topsoil Organic Carbon Stocks and Uncertainty in Florida Grazing Lands Derived from Quantile Regression Forest (30 m Resolution) (v1.0)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19192952
+Zhao, C., Song, J., Dubeux, J., Grunwald, S., Bretas, I. L., Liao, H.-Y., Tziolas, N., Harley, J. B., Zare, A., Babaeian, E., Garcia, L., Queiroz, L., & Mendes, C. T. E. (2026). Topsoil Organic Carbon Stocks and Uncertainty in Florida Grazing Lands Derived from Quantile Regression Forest (30 m Resolution) (v1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19192952
 
 ## Highlights
 
@@ -66,4 +66,4 @@ conda env create -f environment.yml
 ---
 ## Paper Citation
 
-Zhao, Chang and Song, Jiayi and Dubeux, Jose and Grunwald, Sabine and Bretas, Igor L. and Liao, Hao-Yu and Tziolas, Nikolaos and Harley, Joel B. and Zare, Alina and Babaeian, Ebrahim and Garcia Jimenez, Liza and Queiroz, Luana and Mendes, Cristian T.E., Spatiotemporal controls on soil organic carbon stocks in subtropical grazing lands: An uncertainty-aware digital soil mapping approach. Available at SSRN: https://ssrn.com/abstract=6459841 or http://dx.doi.org/10.2139/ssrn.6459841
+Zhao, C., Song, J., Dubeux, J., Grunwald, S., Bretas, I. L., Liao, H.-Y., Tziolas, N., Harley, J. B., Zare, A., Babaeian, E., Garcia, L., Queiroz, L., & Mendes, C. T. E. (2026). Spatiotemporal controls on soil organic carbon stocks in subtropical grazing lands: An uncertainty-aware digital soil mapping approach. Available at SSRN: https://ssrn.com/abstract=6459841 or http://dx.doi.org/10.2139/ssrn.6459841
