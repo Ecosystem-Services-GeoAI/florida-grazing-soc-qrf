@@ -32,7 +32,11 @@ All scripts used in data preprocessing, modeling, uncertainty estimation, and vi
 
 [![Interactive Web Application](https://img.shields.io/badge/Interactive%20Web%20Application-Visit%20Here-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://es-geoai.rc.ufl.edu/agroes-grazing-soc/)
 
-[![Zenodo](https://img.shields.io/badge/Data%20on-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/your-doi-link)
+[![Zenodo](https://img.shields.io/badge/Data%20on-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/19192952)
+
+If you use the SOC dataset provided in Zenodo, please cite:
+
+Zhao, C., Song, J., Dubeux, J., Grunwald, S., Bretas, I., Liao, H.-Y., Tziolas, N., Harley, J., Zare, A., Babaeian, E., Garcia, L., Queiroz, L., & Mendes, C. (2026). *Topsoil Organic Carbon Stocks and Uncertainty in Florida Grazing Lands Derived from Quantile Regression Forest (30 m Resolution) (v1.0)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19192952
 
 ## Highlights
 
@@ -58,3 +62,10 @@ git clone https://github.com/Ecosystem-Services-GeoAI/FL-Grazinglands-SOC.git
 cd FL-Grazinglands-SOC
 
 conda env create -f environment.yml
+
+---
+## Paper Citation
+
+Zhao, C., Song, J., Dubeux, J., Grunwald, S., Bretas, I. L., Liao, H.-Y., Tziolas, N., Harley, J. B., Zare, A., Babaeian, E., Garcia Jimenez, L., Queiroz, L., & Mendes, C. T. E. (2026). *Spatiotemporal controls on soil organic carbon stocks in subtropical grazing lands: An uncertainty-aware digital soil mapping approach*. SSRN.  
+https://ssrn.com/abstract=6459841  
+http://dx.doi.org/10.2139/ssrn.6459841
