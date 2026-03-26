@@ -66,6 +66,4 @@ conda env create -f environment.yml
 ---
 ## Paper Citation
 
-Zhao, C., Song, J., Dubeux, J., Grunwald, S., Bretas, I. L., Liao, H.-Y., Tziolas, N., Harley, J. B., Zare, A., Babaeian, E., Garcia Jimenez, L., Queiroz, L., & Mendes, C. T. E. (2026). *Spatiotemporal controls on soil organic carbon stocks in subtropical grazing lands: An uncertainty-aware digital soil mapping approach*. SSRN.  
-https://ssrn.com/abstract=6459841  
-http://dx.doi.org/10.2139/ssrn.6459841
+Zhao, Chang and Song, Jiayi and Dubeux, Jose and Grunwald, Sabine and Bretas, Igor L. and Liao, Hao-Yu and Tziolas, Nikolaos and Harley, Joel B. and Zare, Alina and Babaeian, Ebrahim and Garcia Jimenez, Liza and Queiroz, Luana and Mendes, Cristian T.E., Spatiotemporal controls on soil organic carbon stocks in subtropical grazing lands: An uncertainty-aware digital soil mapping approach. Available at SSRN: https://ssrn.com/abstract=6459841 or http://dx.doi.org/10.2139/ssrn.6459841
