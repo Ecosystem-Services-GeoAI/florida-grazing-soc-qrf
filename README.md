@@ -16,7 +16,7 @@ Specifically, the framework:
 - applies **Quantile Regression Forests** to generate both SOC predictions and calibrated prediction intervals, enabling spatially explicit quantification of predictive uncertainty  
 - systematically evaluates the effects of **data spiking strategies** on SOC prediction accuracy and uncertainty calibration
 
-The resulting SOC map estimates **36.11 Tg of SOC stored in the topsoil of Florida’s grazing lands**, with a **mean stock of 20.3 t ha⁻¹**, revealing strong spatial heterogeneity driven by pedological properties, hydroclimatic dynamics, vegetation productivity, and grazing pressure.
+The resulting SOC map estimates **33.95 Tg of SOC stored in the topsoil of Florida’s grazing lands**, with a **mean stock of 19.12 t ha⁻¹**, revealing strong spatial heterogeneity driven by pedological properties, hydroclimatic dynamics, vegetation productivity, and grazing pressure.
 
 All scripts used in data preprocessing, modeling, uncertainty estimation, and visualization are organized as **Jupyter notebooks** to ensure transparency and reproducibility.
 
